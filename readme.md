@@ -1,0 +1,2 @@
+# Estrutura de dados (Data Structures)
+Considere isso nao só um repositorio com o que eu julgo válido para essa matéria mas também como um protesto por essa matéria está sendo dada com JAVASCRIPT (isso é uma ofensa).
