@@ -1,0 +1,2 @@
+Coloquei apenas os exercicios que julguei válidos.<br>
+Por exemplo, eu nao iria colocar um exercicio para `Dado o array let animais = ['cachorro', 'gato', 'pássaro'], acesse e exiba o segundo elemento do array.` por conta que isso nao tem haver com estrutura de dados e sim com noções básicas de programação.
