@@ -6,7 +6,7 @@ int queue[size], last_index;
 
 void enqueue(int val){
     if (last_index == size){
-        std::cout << "It is a QueueUnderflow lol" << std::endl;
+        std::cout << "It is a QueueOverflow lol" << std::endl;
         return;
     }
 
